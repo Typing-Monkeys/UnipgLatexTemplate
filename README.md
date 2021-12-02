@@ -1,2 +1,3 @@
-# UnipgLatexTemplate
-Unipg Latex Template for all the shitty things
+# Unipg Latex Template
+
+Template Latex per le varie relazioni e robe di Unipg !
